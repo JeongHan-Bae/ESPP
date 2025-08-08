@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="64" height="64" fill="currentColor"
+     stroke="currentColor">
+    <ellipse
+            style="stroke-width: 18; fill-rule: nonzero; fill-opacity: 0; transform-box: fill-box; transform-origin: 50% 50%; "
+            cx="249.599" cy="250.441" rx="242.292" ry="242.019"
+            transform="matrix(0.999997, 0.002581, -0.002581, 0.999997, 0.487416, -0.536893)" stroke="currentColor"
+            fill="currentColor"/>
+    <path d="M 247.914 111.792 Q 255.857 97.925 263.799 111.792 L 389.741 331.677 Q 397.683 345.544 381.798 345.544 L 129.915 345.544 Q 114.03 345.544 121.972 331.677 Z"
+          style="stroke-width: 0; fill-rule: evenodd; transform-origin: 255.853px 225.201px; "
+          transform="matrix(0, 1, -1, 0, 12.829575, 36.43922)" stroke="currentColor" fill="currentColor"/>
+</svg>

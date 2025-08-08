@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="64" height="64" fill="currentColor" stroke="currentColor">
+    <path
+            d="M 12.059 170.88 H 452.191 L 370.123 139.005 L 470.239 171.38 L 370.123 203.755 L 452.191 171.88 H 12.059 V 170.88 Z"
+            fill="currentColor"
+            stroke="currentColor"
+            stroke-width="18"
+            transform="matrix(0.99999398, -0.003488, 0.003488, 0.99999398, -0.00279043, -1.5981094)"
+    />
+    <path
+            d="M 12.059 170.88 H 452.191 L 370.123 139.005 L 470.239 171.38 L 370.123 203.755 L 452.191 171.88 H 12.059 V 170.88 Z"
+            fill="currentColor"
+            stroke="currentColor"
+            stroke-width="18"
+            transform="matrix(0.999994, -0.003488, 0.003488, 0.999994, -0.493753, 159.41273)"
+    />
+</svg>

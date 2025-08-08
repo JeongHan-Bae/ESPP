@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="64" height="64" fill="currentColor" stroke="currentColor">
+    <path
+            style="stroke: currentColor; fill: currentColor; stroke-width: 0px;"
+            transform="matrix(0.75188, 0, 0, 0.751777, -245.864716, -89.17704)"
+            d="M 444.661 661.009 A 301.149 301.149 0 1 1 653.411 750.119 L 653.834 725.311 A 276.337 276.337 0 1 0 462.284 643.542 Z"
+    />
+    <path
+            d="M 130.769 237.709 Q 137.909 223.99 145.049 237.709 L 173.268 291.932 Q 180.408 305.651 166.128 305.651 L 109.69 305.651 Q 95.41 305.651 102.55 291.932 Z"
+            style="stroke-width: 0px; stroke: currentColor; transform-box: fill-box; transform-origin: 50.0603% 97.4509%; fill: currentColor"
+            transform="matrix(0, -1, 1, 0.002357, 105.820618, 145.669943)"
+    />
+</svg>

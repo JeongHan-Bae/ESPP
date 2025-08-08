@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Example 1 (Music, Cover and Artist)",
+    "filename": "audio1.mp3",
+    "cover": "music1_cover.png",
+    "artist": "Example Artist 1"
+  },
+  {
+    "title": "Example 2 (Music and Artist)",
+    "filename": "audio2.mp3",
+    "artist": "Example Artist 2"
+  },
+  {
+    "title": "Example 3 (Music Only)",
+    "filename": "audio3.mp3"
+  }
+]
