@@ -4,7 +4,7 @@ import svgLoader from 'vite-svg-loader'
 import path from 'path'
 
 export default defineConfig({
-    base: '/espp/',
+    base: '/ESPP/',
     plugins: [vue(), svgLoader()],
     resolve: {
         alias: {
